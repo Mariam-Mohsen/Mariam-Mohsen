@@ -14,9 +14,9 @@ I am a final-year student specializing in **Data Science and AI**, with a focus 
 ---
 
 ### Featured Projects
-* **[SLB ROP Prediction]([./ROP-Prediction-Drilling](https://github.com/Mariam-Mohsen/ROP-Prediction-Drilling)):** Industrial drilling optimization pipeline built in Dataiku.
-* **[MediLite]([./MediLite](https://github.com/Mariam-Mohsen/MediLite)):** Multi-agent medical assistant using CrewAI and Telegram.
-* **[Volve Production Infra]([./Volve-Field-Production-Analytics](https://github.com/Mariam-Mohsen/Volve-Field-Production-Analytics)):** Containerized PostgreSQL & Jupyter infrastructure for production analytics.
+* **[SLB ROP Prediction](./ROP-Prediction-Drilling):** Industrial drilling optimization pipeline built in Dataiku.
+* **[MediLite](./MediLite):** Multi-agent medical assistant using CrewAI and Telegram.
+* **[Volve Production Infra](./Volve-Field-Production-Analytics):** Containerized PostgreSQL & Jupyter infrastructure for production analytics.
 
 ---
 
